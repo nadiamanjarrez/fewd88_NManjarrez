@@ -1,0 +1,86 @@
+
+header{
+	background-color: black;
+	overflow: hidden;
+}
+
+h1{
+    font-size: 30px;
+    font-family: "Merriweather", serif;
+    color: yellow;
+    float:left
+}
+
+nav{
+    align-content: right;
+    font-family: "Oswald";
+    font-size: 22px;
+    float:right;
+
+}
+nav .thick{
+	font-weight: bold;
+	font-size:24px;
+}
+
+section.num1{
+	background: #C6C6C6;
+	height: 60px;
+	overflow: hidden;
+}
+
+h2{
+	font-family: "Merriweather";
+	font-size: 26px;
+}
+h4{
+	font: "Merriweather", serif;
+	font-size: 25px;
+}
+p{
+	font-family: "Source Sans Pro"
+	font-size: 22px;
+
+}
+
+section.table{
+	height-max:500px;
+	background-image: url("../img/coworking.jpg");
+	overflow: hidden;
+}
+
+div.num1{
+	background: rgb(255,255,255,0.8);
+	height: 240px;
+	width: 360px;
+	float: right;
+}
+
+section.box{
+	height:240px;
+	overflow: hidden;
+	background: #C6C6C6;
+}
+div.num3{
+	align-self: center;
+	overflow: hidden;
+	align-content: center;
+}
+
+div.num2{
+	    height: 200px;
+    	width: 300px;
+    	text-align: left;
+    	display: block;
+    	float: left;
+    	align-content: center;
+}
+footer{
+	background: black;
+	height: 100px;
+	text-decoration-color: white;
+	font-size: 22px;
+}
+h6{
+	font-color:white;
+}
